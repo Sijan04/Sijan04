@@ -1,5 +1,5 @@
-- 👋 Hello, it's me sijan shahariar annato .Right now i'm a student of computer science depertment in AIUB.
-- 👀 I’m interested on programmin,OOP concept,Software testing (SQA),I have experience to work in HCI (HUMAN COMUTER INTERATION)domain with sob project is like letter detection project.
+- 👋 Hello, it's me sijan shahariar annanto .Right now i'm a last semester student of computer science & engineering depertment in AIUB.
+- 👀 I’m interested on programmin,OOP concept,Software testing (SQA),design and playing cricket and football,I have knowledge to work in HCI (HUMAN COMUTER INTERATION)domain with project is like letter detection project.
 - 🌱 I’m currently learning ASP.Net frame work MVC AND API and work in My sql database and also postman software and also work in data science with R-Studio software .
 - 📫 How to reach me https://www.linkedin.com/in/sijan-shahariar-940272184/
 -                 phone:01630688410
